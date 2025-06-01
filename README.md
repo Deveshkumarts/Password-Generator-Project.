@@ -15,8 +15,7 @@ A tool that generates strong, random passwords based on user-selected criteria.
 
 Below is a screenshot of the Password Generator in action:
 
-![Password Generator Demo]("screenshots\ui_screenshot.png")
-
+![Password Generator Demo](screenshots/ui_screenshot.png)
 
 ## 🛠️ Tech Stack
 - Python 3
