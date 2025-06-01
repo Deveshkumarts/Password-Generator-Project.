@@ -15,7 +15,7 @@ A tool that generates strong, random passwords based on user-selected criteria.
 
 Below is a screenshot of the Password Generator in action:
 
-![Password Generator Demo]("C:\Users\deves\Downloads\Password-Generator-Project\Password-Generator-Project\screenshots\ui_screenshot.png")
+![Password Generator Demo]("screenshots\ui_screenshot.png")
 
 
 ## 🛠️ Tech Stack
@@ -29,5 +29,4 @@ python password_generator.py
 ## 📄 License
 MIT License
 
-## 📊 Project Presentation
-Find the presentation in the `presentation/` folder.
+
